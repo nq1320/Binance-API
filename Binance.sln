@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EA88719-22C6-43F5-96E3-4A2D9FF3A302}") = "Binance", "Binance\Binance.csproj", "{690D8135-A2A6-4CD3-8083-AD79D433058A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Debug|x86.Build.0 = Debug|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Release|x86.ActiveCfg = Release|Any CPU
+		{690D8135-A2A6-4CD3-8083-AD79D433058A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2835FE84-D026-44BC-8613-7BA749D267B2}
+	EndGlobalSection
+EndGlobal
